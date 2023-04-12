@@ -48,9 +48,9 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a aprender Python, pr
 | 06 | Jogo da Adivinhação das Datas||[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_06]|
 
 
-[repo_01]:https://github.com/iuryrosal/projetos-python/blob/main/level-a/01
-[repo_02]:https://github.com/iuryrosal/projetos-python/blob/main/level-a/02
-[repo_03]:https://github.com/iuryrosal/projetos-python/blob/main/level-a/03
-[repo_04]:https://github.com/iuryrosal/projetos-python/blob/main/level-a/04
-[repo_05]:https://github.com/iuryrosal/projetos-python/blob/main/level-a/05
-[repo_06]:https://github.com/iuryrosal/projetos-python/tree/main/level-a/06
+[repo_01]:https://github.com/zeldinha00/Projetos_Python_Iniciantes/blob/main/01_Projeto_Quiz/01_projeto_quiz.py
+[repo_02]:https://github.com/zeldinha00/Projetos_Python_Iniciantes/blob/main/02_Projeto_Adivinha%C3%A7%C3%A3o_Numerica/02_advinhacao_numerica.py
+[repo_03]:https://github.com/zeldinha00/Projetos_Python_Iniciantes/blob/main/03_Projeto_Pedra_Papel_Tesoura/03_pedra_papel_tesoura.py
+[repo_04]:https://github.com/zeldinha00/Projetos_Python_Iniciantes/blob/main/04_Projeto_Cronometro/04_cronometro.py
+[repo_05]:https://github.com/zeldinha00/Projetos_Python_Iniciantes/blob/main/05_Projeto_Gerador_Senhas/05_gerador_de_senhas.py
+[repo_06]:https://github.com/zeldinha00/Projetos_Python_Iniciantes/tree/main/06_Projeto_Adivinha%C3%A7%C3%A3o_Datas
