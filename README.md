@@ -56,4 +56,4 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a aprender Python, pr
 [repo_04]:https://github.com/zeldinha00/Projetos_Python_Iniciantes/blob/main/04_Projeto_Cronometro/04_cronometro.py
 [repo_05]:https://github.com/zeldinha00/Projetos_Python_Iniciantes/blob/main/05_Projeto_Gerador_Senhas/05_gerador_de_senhas.py
 [repo_06]:https://github.com/zeldinha00/Projetos_Python_Iniciantes/tree/main/06_Projeto_Adivinha%C3%A7%C3%A3o_Datas
-[repo_07]:https://github.com/zeldinha00/Projetos_Python_Iniciantes/tree/main/06_Projeto_Adivinha%C3%A7%C3%A3o_Datas
+[repo_07]:https://github.com/zeldinha00/Projetos_Python_Iniciantes/tree/main/07_Projeto_Or%C3%A7amento_PDF
