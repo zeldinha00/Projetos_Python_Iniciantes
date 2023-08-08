@@ -46,6 +46,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a aprender Python, pr
 | 04 | Temporizador||[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_04]|
 | 05 | Gerador de Senha||[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_05]|
 | 06 | Jogo da Adivinhação das Datas||[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_06]|
+| 07 | Gerador de orçamento PDF||[<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">][repo_06]|
+
 
 
 [repo_01]:https://github.com/zeldinha00/Projetos_Python_Iniciantes/blob/main/01_Projeto_Quiz/01_projeto_quiz.py
@@ -54,3 +56,4 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a aprender Python, pr
 [repo_04]:https://github.com/zeldinha00/Projetos_Python_Iniciantes/blob/main/04_Projeto_Cronometro/04_cronometro.py
 [repo_05]:https://github.com/zeldinha00/Projetos_Python_Iniciantes/blob/main/05_Projeto_Gerador_Senhas/05_gerador_de_senhas.py
 [repo_06]:https://github.com/zeldinha00/Projetos_Python_Iniciantes/tree/main/06_Projeto_Adivinha%C3%A7%C3%A3o_Datas
+[repo_07]:https://github.com/zeldinha00/Projetos_Python_Iniciantes/tree/main/06_Projeto_Adivinha%C3%A7%C3%A3o_Datas
